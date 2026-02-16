@@ -26,7 +26,11 @@ Excel / CSV Dataset
 
 Chocolate_Sales_Dashboard.pbix – Main dashboard file
 
-Chocolate_Sales_Template.pbit – Template file (optional)
+ 📷 Dashboard Preview
+
+<p align="center">
+  <img src="Dashboard.png" width="800">
+</p>
 
 📈 Key Insights
 
